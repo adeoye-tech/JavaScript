@@ -45,13 +45,11 @@ function addNumbers(a,b,c,d) {
 
     function subtractNumbers(a,b,c,d) {
         console.log(a-b-c-d);
-        subtractNumbers    
-    }
+        }
     subtractNumbers(10,5,3,2);
     
     function multiplyNumbers(a,b,c,d) {
         console.log(a*b*c*d);
-        multiplyNumbers
-    }
+        }
     multiplyNumbers(10,5,3,2);
     
